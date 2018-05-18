@@ -1,6 +1,12 @@
 Site Pinger
 ===============================
 
+[![PyPI version](https://badge.fury.io/py/site_pinger.svg)](https://badge.fury.io/py/site_pinger)
+
+[![GitHub license](https://img.shields.io/github/license/assigdev/site_pinger.svg)](https://github.com/assigdev/site_pinger/blob/master/LICENSE.md)
+
+
+
 version number: 0.4.0
 author: Arsen Khalilov
 
